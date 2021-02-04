@@ -1,5 +1,5 @@
-# List
-a go package for operations with float64 list/array/slice
+# List 
+# A go package for operations with float64 []list
 
 this repo helps you to deal with helping function for list/array of float64 datatype
 
